@@ -1,8 +1,7 @@
 /*
-Paste this command in your cmd to run this code directly :
 
-cd C:\My progs\C progs && del a.exe && gcc "AlphaSecurity.c" && a
-
+Here is a program that does encryption and decryption (without key for simplicity)
+(Messy code, i know, SORRY)
 */
 
 #include <stdio.h>
